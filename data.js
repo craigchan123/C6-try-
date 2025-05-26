@@ -294,13 +294,26 @@ var APP_DATA = {
           "target": "0-img_20250524_183611_00_merged"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 0.08101240688829847,
+          "pitch": 0.24663648960308748,
+          "title": "大門",
+          "text": "多功能電子鎖（指紋／密碼／磁扣／鑰匙）"
+        },
+        {
+          "yaw": -0.343639787308728,
+          "pitch": -0.05374145336104341,
+          "title": "大門材質",
+          "text": "防火門"
+        }
+      ]
     }
   ],
   "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
